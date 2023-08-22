@@ -4,7 +4,7 @@ Demonstration of how to use a ZeroTier node in your macOS, iOS, iPadOS Swift or 
 
 ## Get the ZeroTier framework
 
-Use the example frameworks in this repo or download the latest here: [zerotier.com/download/](https://www.zerotier.com/download/)
+Use the example frameworks in this repo or download the latest here: [download.zerotier.com]([https://www.zerotier.com/download/](https://download.zerotier.com/dist/sdk))
 
 ## How to add the ZeroTier framework to your project
 
