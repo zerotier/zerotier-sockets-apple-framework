@@ -1,4 +1,4 @@
-# sdk-ios-macos-ipados
+# Apple iOS/macOS/iPadOS Framework
 
 Demonstration of how to use a ZeroTier node in your macOS, iOS, iPadOS Swift or Objective-C application. `main.swift` contains example code that shows how to start and stop a node, handle events, and open a basic BSD-style socket that can connect to resources on your ZeroTier virtual network.
 
