@@ -36,4 +36,4 @@ While this example is written in Swift it is basically just calling C functions.
 
 ## Higher level API (NSStream / URLSession)
 
-A higher level API is currently under development but not yet released. If you'd like to help out please [get in touch with us!]()
+A higher level API is currently under development but not yet released.
